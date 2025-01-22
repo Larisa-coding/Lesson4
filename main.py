@@ -1,9 +1,3 @@
-a = 7 #создание переменной
-b = 15
-
-if a > b:
-    print("a is bigger than b")
-elif b > a:
-    print("b is bigger than a")
-else:
-    print("a is equal b")
+print("Hello, World!")
+x = 5
+print("Квадрат числа:", x ** 2)
